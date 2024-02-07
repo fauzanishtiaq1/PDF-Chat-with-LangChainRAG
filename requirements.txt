@@ -1,0 +1,5 @@
+pypdf2
+faiss-cpu
+langchain-community
+langchain-openai
+langchain
