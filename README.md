@@ -30,6 +30,10 @@ Note:
 
     Users need to ensure they have the necessary dependencies installed and an OpenAI API key configured to run the program successfully.
     The program's flexibility and modular design allow for easy integration into various projects and workflows involving text analysis and response generation.
-    Please feel free to reach out if you have any questions. 
-    EMAIL: ishtiaq.fauzan@gmail.com
-    LinkedIn: https://www.linkedin.com/in/fauzan-ishtiaq-3b2356250/
+
+Contact:
+Please feel free to reach out if you have any questions. 
+    
+Email: ishtiaq.fauzan@gmail.com
+    
+LinkedIn: https://www.linkedin.com/in/fauzan-ishtiaq-3b2356250/
