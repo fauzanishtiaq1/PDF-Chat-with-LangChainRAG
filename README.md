@@ -1,4 +1,5 @@
 ## PDF-Chat-with-LangChainRAG
+https://python.langchain.com/docs/expression_language/cookbook/retrieval
 Program Description:
 
 The program is designed to process text from a PDF file, generate embeddings for the text chunks using OpenAI's embedding service, and then produce responses to prompts based on the embeddings. It consists of two main parts: the core functionality implemented in the rag.py module and a test script (rag_test.py) that demonstrates the usage of the core functionality.
